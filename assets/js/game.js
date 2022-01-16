@@ -120,7 +120,7 @@ var startGame = function () {
    }
   };
 // play again
-  startGame ();
+  endGame ();
 };
 // start the game when the page loads
 startGame();
